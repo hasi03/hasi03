@@ -22,12 +22,18 @@
 - folium
 - pandas
 
-### Publication
+### Publications
+
 #### Peer-Reviewed Jornals
+-  Gravitational Fluctuations as an Alternative to Inflation. [Published Journal](https://www.mdpi.com/760954).
 
+#### In Preparation to be Published
+- Correlation Between Reionization Optical Depth and Weak Gravitational Potential
+- Physically Defined Massive Relic Galaxies in TNG300 Simulation.
+- Highly Concentrated Dark Matter Halos in the TNG300 Simulation.
 
-### Public Talks/Presentation
-
+### Public Talks/Presentations
+- What's wrong with dark energy? Public talk given to undergraduate steudents at University of California-Irvine.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasi03&show_icons=true&locale=en&layout=compact" alt="hasi03" /></p>
