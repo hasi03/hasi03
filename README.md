@@ -22,6 +22,13 @@
 - folium
 - pandas
 
+### Publication
+#### Peer-Reviewed Jornals
+
+
+### Public Talks/Presentation
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasi03&show_icons=true&locale=en&layout=compact" alt="hasi03" /></p>
 
