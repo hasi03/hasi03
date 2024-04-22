@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasitha Eranda</h1>
 <h3 align="center">A passionate data scientist coming from a theoretical/computational astrophysics background.</h3>
 
-- 🔭 I’m currently working on [Applying Models for Time Series Forecast of Sunspots.](https://github.com/hasi03/Timeseries-sunspots.git)
+- 🔭 Few of my Projects
+- [Applying Models for Time Series Forecast of Sunspots.](https://github.com/hasi03/Timeseries-sunspots.git)
+- [Advanced Machine Learning for Predicting Hospital Readmissions in Diabetes Care](https://github.com/kkdsdesilva/diabetes-ucidata)
+- [Solar Eclipse Best Viewing Locations Finder](https://github.com/hasi03/Solar-Eclipse-Best-Location-Finder)
 
 - 👨‍💻 All of my projects are available at [https://hasi03.github.io/](https://hasi03.github.io/)
 
