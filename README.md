@@ -33,7 +33,7 @@
 - Highly Concentrated Dark Matter Halos in the TNG300 Simulation.
 
 ### Public Talks/Presentations
-- What's wrong with dark energy? Public talk given to undergraduate steudents at University of California-Irvine.
+- What's wrong with dark energy? Public talk given to undergraduate students at University of Colombo.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasi03&show_icons=true&locale=en&layout=compact" alt="hasi03" /></p>
