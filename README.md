@@ -37,7 +37,12 @@
 
 ### Public Talks/Presentations
 - What's wrong with dark energy? Public talk given to undergraduate students at University of Colombo.
+- Participated in Philosophy of Dark Energy Workshop at UCIrvine.
 
+### Volunteering
+- **Guest Lecturer**: Stedu Association Group. Conducted
+- **Vice President in SPICMACAY at UCIrvine** : a non-profit, voluntary movement for the promotion of Indian Classical Music and Culture
+- **Organizer of Physics Talks** : A weekly meetup for undergraduate students at university of Colombo.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasi03&show_icons=true&locale=en&layout=compact" alt="hasi03" /></p>
 
