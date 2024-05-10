@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data scientist coming from a theoretical/computational astrophysics background.</h3>
 
  ## 🔭 Few of my Projects 
-- [Applying Models for Time Series Forecast of Sunspots.](https://github.com/hasi03/Timeseries-sunspots.git)
+- [Applying Maching Learning Models for Time Series Forecast of Sunspots.](https://github.com/hasi03/Timeseries-sunspots.git)
 - [Advanced Machine Learning for Predicting Hospital Readmissions in Diabetes Care](https://github.com/kkdsdesilva/diabetes-ucidata)
 - [Solar Eclipse Best Viewing Locations Finder](https://github.com/hasi03/Solar-Eclipse-Best-Location-Finder)
 
