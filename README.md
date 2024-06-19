@@ -2,8 +2,9 @@
 <h3 align="center">A passionate data scientist coming from a theoretical/computational astrophysics background.</h3>
 
  ## 🔭 Few of my Projects 
-- [Applying Maching Learning Models for Time Series Forecast of Sunspots.](https://github.com/hasi03/Timeseries-sunspots.git)
+- [𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐚 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐨𝐫 𝐟𝐨𝐫 𝐂𝐫𝐞𝐝𝐢𝐭 𝐃𝐞𝐟𝐚𝐮𝐥𝐭 𝐑𝐢𝐬𝐤 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧](https://github.com/hasi03/credit-risk-modeling)
 - [Advanced Machine Learning for Predicting Hospital Readmissions in Diabetes Care](https://github.com/kkdsdesilva/diabetes-ucidata)
+- [Applying Maching Learning Models for Time Series Forecast of Sunspots.](https://github.com/hasi03/Timeseries-sunspots.git)
 - [Solar Eclipse Best Viewing Locations Finder](https://github.com/hasi03/Solar-Eclipse-Best-Location-Finder)
 
 - 👨‍💻 All of my projects are available at [https://hasi03.github.io/](https://hasi03.github.io/)
