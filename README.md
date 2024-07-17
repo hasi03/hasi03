@@ -41,7 +41,7 @@
 - Participated in Philosophy of Dark Energy Workshop at UCIrvine.
 
 ### Volunteering
-- **Guest Lecturer**: Stedu Association Group. Conducted
+- **Guest Lecturer**: Stedu Association Group. Conducted a lecture series for a summer school for middle school students.
 - **Vice President in SPICMACAY at UCIrvine** : a non-profit, voluntary movement for the promotion of Indian Classical Music and Culture
 - **Organizer of Physics Talks** : A weekly meetup for undergraduate students at university of Colombo.
 
